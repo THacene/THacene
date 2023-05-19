@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @THacene
-- 👀 I’m interested in dev mobile and dev web
-- 🌱 I’m currently learning python
+- 👀 I’m interested in ITand dev web
 - 💞️ I’m looking to collaborate on in the project
-- 📫 How to reach me my email hcen09blida@gmail.com
+- 📫 How to reach me my email touarihacene@gmail.com
 
 <!---
 THacene/THacene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
