@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hacene Touari</h1>
-<h3 align="center">Systems & Web Technologies Engineer | Full-Stack Web Developer</h3>
+<h3 align="center">Systems & Web Technologies Engineer | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=JavaScript+%7C+Node.js+%7C+Next.js+%7C+Laravel;3D+Simulation+%26+WebXR+Enthusiast;Always+Ready+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
